@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slitte
-- 👀 I’m interested in IoT Projects
-- 🌱 I’m currently learning some basics in programm languages, docker, networks
+- 👀 I’m interested in IoT Projects and 3D printing
+- 🌱 I’m currently learning some basics in programm languages, docker, networks, 3D printing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
