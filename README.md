@@ -1,4 +1,4 @@
-# Hi, I'm Thomas 👋
+# Hi, I'm slitte 👋
 
 Mechanical designer by profession, tech nerd at home.
 
